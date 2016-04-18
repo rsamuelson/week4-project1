@@ -1,3 +1,5 @@
+// $(document).ready(function(){
+
 // EXERCISE THE JQUERY
 
 // We'll be using the html in index.html for the following jQuery exercises.
@@ -6,7 +8,7 @@
 // 1. Hide all of the paragraphs on the index.html page.
 
 
-// 2. Hide all of the h1's on the page.
+// 2. Hide all of the h2's on the page.
 
 
 // 3. Hide all of the elements in the document.
@@ -19,3 +21,5 @@
 
 
 // 6. Hide all paragraphs when they're clicked.
+
+// });
