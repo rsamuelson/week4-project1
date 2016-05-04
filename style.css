@@ -46,6 +46,11 @@ body {
   float: left;
   margin-right: 20px;
 }
+.swatches:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 .black {
   background-color: #000;
   color: #fff;
@@ -59,4 +64,7 @@ body {
   background-image: url("http://www.henderson-art.co.uk/art/wallpaper/chaos.jpg");
   background-size: 100%;
   color: #fff;
+}
+hr {
+ margin: 50px 0;   
 }
