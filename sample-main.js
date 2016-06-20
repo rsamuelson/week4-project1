@@ -1,4 +1,4 @@
-// $(document).ready(function(){
+$(document).ready(function(){
 
 // EXERCISE THE JQUERY
 
@@ -22,4 +22,4 @@
 
 // 6. Hide all paragraphs when they're clicked.
 
-// });
+});
